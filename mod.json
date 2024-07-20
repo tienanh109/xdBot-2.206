@@ -1,13 +1,13 @@
 {
-	"geode": "3.0.0-beta.1",
+	"geode": "3.2.0",
 	"version": "v1.6.0",
 	"id": "zilko.xdbot",
 	"gd": {
 		"win": "2.206",
 		"android": "2.206"
 	},
-	"repository": "https://github.com/ZiLko/xdBot/",
-	"name": "xdBot",
+	"repository": "https://github.com/tienanh109/xdBot-2.206/",
+	"name": "xdBot 2.206",
 	"settings": {
 		"speedhack": {
 			"name": "Speedhack",
@@ -118,6 +118,6 @@
 			"importance": "required"
 		}
 	],
-	"developer": "Zilko",
-	"description": "Free botting tool for showcases."
+	"developer": "tienanh109",
+	"description": "Free botting tool for showcases. Original by Zilko, patched by tienanh109"
 }
